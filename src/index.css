@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Add this CSS globally or in the component's CSS */
+body, html {
+    overflow-x: hidden; /* Prevent horizontal overflow */
+  }
+  
